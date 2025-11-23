@@ -1,0 +1,20 @@
+export const reasons = [
+  { id: 1, reason: "I'm no longer buying or selling in my area" },
+  { id: 2, reason: "The app is hard to use or understand" },
+  { id: 3, reason: "Most listings are old or not helpful" },
+  { id: 4, reason: "I receive too many alerts or notifications" },
+  { id: 5, reason: "I found another app that works better for me" },
+  { id: 6, reason: "I'm worried about privacy or my data" },
+  { id: 7, reason: "I got spam or suspicious messages" },
+  { id: 8, reason: "There aren’t enough products I’m looking for" },
+  { id: 9, reason: "The app uses too much data or battery" },
+  { id: 10, reason: "There are too many adverts or promotions" },
+  { id: 11, reason: "The app takes up too much space on my phone" },
+  { id: 12, reason: "No updates or improvements recently" },
+  { id: 13, reason: "I heard bad feedback from others" },
+  {
+    id: 14,
+    reason: "I now use other platforms like WhatsApp or Facebook",
+  },
+  { id: 15, reason: "Other" },
+];
