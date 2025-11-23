@@ -668,7 +668,7 @@ Adaptive Layout ✓
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/vula-moto.git
+git clone https://github.com/LuthandoCandlovu/Vula-Motor_App
 cd vula-moto
 
 # 2️⃣ Install dependencies
@@ -1155,8 +1155,8 @@ chore:    Build/tooling changes
 
 <div align="center">
 
-<a href="https://github.com/yourusername/vula-moto/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/vula-moto" />
+<a href="https://github.com/LuthandoCandlovu/Vula-Motor_App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LuthandoCandlovu/Vula-Motor_App" />
 </a>
 
 **Thank you to all our amazing contributors! 🙏**
@@ -1350,7 +1350,7 @@ graph LR
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">
 <h3>👨‍💻 Engineering</h3>
-<p><b>Your Name</b><br>Lead Developer<br>Full-Stack & AI</p>
+<p><b>Luthando Candlovu</b><br>Lead Developer<br>Full-Stack & AI</p>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
@@ -1402,13 +1402,13 @@ of this software and associated documentation files...
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="mailto:your.email@example.com">
+<a href="mailto:luthando.candlovu30@gmail.com">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/><br>
 <b>Email</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/><br>
 <b>LinkedIn</b>
 </a>
@@ -1420,13 +1420,13 @@ of this software and associated documentation files...
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/LuthandoCandlovu">
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"/><br>
 <b>GitHub</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://yourportfolio.com">
+<a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35dd0b.gif" width="50"/><br>
 <b>Portfolio</b>
 </a>
@@ -1510,7 +1510,7 @@ Special thanks to:
 
 *Transforming informal auto SMMEs into digital-first businesses, one connection at a time*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/LuthandoCandlovu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 ---
